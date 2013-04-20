@@ -2,7 +2,6 @@
  * A simple guessing game to guess a random integer.
  *
  */
-
 #include <iostream>
 #include <string>
 #include <string.h>
